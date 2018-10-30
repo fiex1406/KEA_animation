@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+}
+
+#screen {
+    position: relative;
+    background-image: url(spilskaerm.svg);
+    width: 100vw;
+    height: 56.25vw;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    margin: auto;
+    background-size: cover;
+    background-color: black;
+}
+
+
+#game_background {
+    background-image: url('spilskaerm.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+
+#groen_seddel {
+    background-image: url('groen_seddel.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+
+#daarlige_point {
+    background-image: url('daarlige_point.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+
+#forgrund_spilskaerm {
+    background-image: url('forgrund_spilskaerm.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+
+#gode_point {
+    background-image: url('gode_point.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+
+#mand_forfra {
+    background-image: url('mand_forfra.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+#sort_seddel {
+    background-image: url('sort_seddel.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+#game_ui {
+    position: relative;
+}
+
+#tid {
+    background-image: url('tid.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+}
+
+#liv {
+    background-image: url('liv.svg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    top: ;
+    left: ;
+
+}
+
+
+
+/****display:none på CSS’en for start, settings, gameover og levelcomplete skærme, så man kun ser selve spilskærmen***/
